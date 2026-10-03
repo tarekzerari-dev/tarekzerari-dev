@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Tarek Zerari 👋
+# Tarek Zerari 
 
 ### Computer Science Engineering Student · AI & Machine Learning Enthusiast · Software Developer
 
